@@ -11,7 +11,7 @@
 
 ## Apply
 ```css
-@import url('https://gitea.kanami.pw/superonline/KDCSS/raw/branch/master/kdcss.css');
+@import url('https://github.com/KDCSS/raw/branch/master/kdcss.css');
 ```
 디스코드에 들어가신 후, 설정에 가장 아래에 있는 Custom CSS 탭을 클릭합니다. <br>
 위의 코드를 **CUSTOM CSS EDITOR**에 입력하고,  <br>
@@ -21,7 +21,7 @@
 
 ## Config
 ```css
-@import url('https://gitea.kanami.pw/superonline/KDCSS/raw/branch/master/kdcss.css');
+@import url('https://github.com/KDCSS/raw/branch/master/kdcss.css');
 :root {
     --font-display: 'NEXON Lv2 Gothic';
     --font-size: 90%;
