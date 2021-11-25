@@ -1,3 +1,5 @@
+[![License](http://img.shields.io/badge/license-MIT%20LICENSE-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 # KDCSS
 
 ## Install
