@@ -1,0 +1,4 @@
+@import url(../custom/helpvisible.css);
+:root {
+	--help-button-visible: none;
+}

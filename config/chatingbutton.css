@@ -1,0 +1,9 @@
+@import url(../custom/chatingbutton.css);
+:root {
+	--button-visible: flex;
+	--button-gift: none;
+	--button-gif: flex;
+	--button-sticker: flex;
+	--button-emoji: flex;
+	--button-emoji-tab: flex;
+}

@@ -1,0 +1,6 @@
+@import url(../custom/hidesidebar.css);
+:root {
+    --hide-sidebar-width: 35px;
+    --hide-sidebar-speed: 0.7s;
+    --hide-sidebar-delay: 0s;
+}

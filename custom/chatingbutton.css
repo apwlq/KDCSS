@@ -1,0 +1,21 @@
+#app-mount .buttons-3JBrkn {
+    display: var(--button-visible);
+}
+.button-38aScr[aria-label="선물 보내기"], .button-38aScr[aria-label="Send a gift"] {
+    display: var(--button-gift);
+} 
+.buttonContainer-28fw2U > .button-38aScr[aria-label="GIF 선택기 열기"],  .button-38aScr[aria-label="Open GIF picker"]{
+    display: var(--button-gif);
+}
+.buttonContainer-28fw2U > .button-38aScr[aria-label="스티커 선택기 열기"],  .button-38aScr[aria-label="Open sticker picker"]{
+    display: var(--button-sticker);
+}
+.buttonContainer-28fw2U > .button-38aScr[aria-label="이모티콘 선택하기"],  .button-38aScr[aria-label="Select emoji"]{
+    display: var(--button-emoji);
+}
+.navItem-3Wp_oJ[id="gif-picker-tab"] {
+    display: var(--button-emoji-tab);
+}
+.wrapper-3Njo_c {
+  display: var(--hide-folder);
+}

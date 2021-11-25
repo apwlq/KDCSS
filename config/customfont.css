@@ -1,0 +1,4 @@
+@import url(../custom/customfont.css);
+:root {
+	--customFont: 'NEXON Lv2 Gothic';
+}

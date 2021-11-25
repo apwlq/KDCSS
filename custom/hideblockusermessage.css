@@ -1,0 +1,6 @@
+div[class^="blockedSystemMessage-"], div[class*="blockedSystemMessage-"] { 
+    display: var(--hide-block-user-message); 
+}
+div[class^="groupStart-"], div[class^="da-groupStart"] {
+    display: var(--hide-block-user-message);
+}

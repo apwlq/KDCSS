@@ -1,0 +1,5 @@
+@import url(../custom/blurspoiler.css);
+:root {
+	--blur-range: 8px;
+	--blur-speed: 0.7s;
+}

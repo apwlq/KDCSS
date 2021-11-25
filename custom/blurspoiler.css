@@ -1,0 +1,13 @@
+.spoilerContainer-331r0R .imageWrapper-2p5ogY > img {
+  filter: blur(var(--blur-range));
+  -webkit-filter: blur(var(--blur-range));
+  transition: filter var(--blur-speed) ease-out 0ms;
+}
+.spoilerContainer-331r0R .imageWrapper-2p5ogY > img:hover {
+  filter: blur(0);
+  -webkit-filter: blur(0);
+}
+.image-1tIMwV > img {
+  filter: blur(0);
+  -webkit-filter: blur(0);
+}

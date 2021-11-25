@@ -1,0 +1,17 @@
+div.sidebar-2K8pFh {
+    width: var(--hide-sidebar-width);
+    background-image: url(https://data.kanami.pw/BD/svg/sidebar.svg);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: center, center;
+
+    transition: all var(--hide-sidebar-speed);
+    transition-delay: var(--hide-sidebar-delay);
+}
+div.sidebar-2K8pFh:hover {
+    width: 240px;
+    background-image: url();
+    transition-delay: 0s;
+}
+div.sidebar-2K8pFh > * { opacity: 0; transition: opacity var(--hide-sidebar-speed); transition-delay: var(--hide-sidebar-delay); }
+div.sidebar-2K8pFh:hover > * { opacity: 1; transition-delay: 0s; }

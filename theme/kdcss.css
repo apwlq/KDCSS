@@ -1,0 +1,34 @@
+@import url(../custom/blurspoiler.css);
+@import url(../custom/chatingbutton.css);
+@import url(../custom/customfont.css);
+@import url(../custom/discolored.css);
+@import url(../custom/fixbug.css);
+@import url(../custom/gtrevertrebrand.css);
+@import url(../custom/helpvisible.css);
+@import url(../custom/hideblockusermessage.css);
+@import url(../custom/notanotheranimetheme.css);
+@import url(../custom/radialstatus.css);
+
+@import url(../config/blurspoiler.css);
+@import url(../config/chatingbutton.css);
+@import url(../config/customfont.css);
+@import url(../config/gtrevertrebrand.css);
+@import url(../config/helpvisible.css);
+@import url(../config/hideblockusermessage.css);
+@import url(../config/notanotheranimetheme.css);
+@import url(../config/radialstatus.css);
+
+:root {
+	--blur-range: 8px;
+	--blur-speed: 0.7s;
+	--button-visible: flex;
+	--customFont: none;
+	--help-button-visible: flex;
+	--hide-block-user-message: block;
+	--theme-background-image: url(svg/blank.png);
+	--theme-transparency: rgba(0, 0, 0, 0.8);
+	--home-icon-image: url(svg/discord.svg);
+	--font-size: 100%;
+	--rs-avatar-shape: 50%;
+	--rs-phone-visible: none;
+}

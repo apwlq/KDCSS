@@ -1,0 +1,17 @@
+/* 
+ * Name: 		Betterdiscord: The Discord Enhancement Project
+ * Description:	BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.
+ * Url:			https://betterdiscord.app/
+ */
+.content-1Wq3SX > .avatar-3tNQiO, .avatarSmall-1PJoGO {
+    background-position: 0 0 !important;
+}
+
+/* 
+ * Name: 		MemberCount
+ * Description:	Displays a server's total count of members at the top of the member-list.
+ * Url:			https://github.com/Arashiryuu/crap/tree/master/ToastIntegrated/MemberCount
+ */
+#MemberCount {
+    background-color: rgba(0,0,0,0) !important;
+}

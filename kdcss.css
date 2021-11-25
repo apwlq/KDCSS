@@ -1,0 +1,8 @@
+@import url(./theme/kdcss.css);
+:root {
+	--customFont: var(--font-display);
+	--theme-background-image: var(--background-image);
+	--theme-transparency: var(--background-transparency);
+	--rs-avatar-shape: var(--avatar-shape);
+	--rs-phone-visible: var(--phone-visible);
+}
